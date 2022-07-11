@@ -9,5 +9,6 @@ I am a CBB (Computational Biology & Bioinformatics) PhD student at Yale Universi
 
 My research interests lie in the area of machine learning, causal inference, and their various applications in single-cell omics data. 
 
+<font color=White> Thanks to my family and 12 for their kind support! <font>
+
 # News
-<font color=White> Test <font>
